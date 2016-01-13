@@ -296,6 +296,11 @@ button {
         transform:rotate(360deg);
     }
 }
+.moveimagedown
+{
+    position: relative;
+    top: 30px;
+}
 .view-enter,.view-leave {
     -moz-transition:all .5s;
     -o-transition:all .5s;
